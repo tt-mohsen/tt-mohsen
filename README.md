@@ -4,9 +4,9 @@ Hi 👋 My name is Mohsen Amani <img src="https://visitor-badge.laobi.icu/badge?
 Software Engineer | Problem Solver | Tech Enthusiast
 ----------------------------------------------------
 
-👋 Hi there! I'm Mohsen Amani, a software engineer who loves solving puzzles with code. I build stuff that works and makes life easier. <br/>🚀 I've been coding for over 5 years, making websites snappy with Angular, NextJs, React and servers run smoothly with Nodejs, Express, NestJs, PHP, Laravel. I'm all about making technology work seamlessly for people. 
-<br/>🌱 I believe in teamwork and sharing knowledge. You'll often find me helping out on open-source projects or chatting with other developers. Learning is fun when we do it together! <br/>🔧 When I'm not coding, I'm probably going out walking. Balance is key to keeping those creative juices flowing. <br/>💬 Wanna talk tech or collaborate on something cool? Hit me up here on GitHub or find me on website. Let's make magic happen with code! Happy coding! 🎉
-
+👋 Hi there! I'm Mohsen Amani, a software engineer who loves solving puzzles with code. I build stuff that works and makes life easier. <br/><br/>🚀 I've been coding for over 5 years, making websites snappy with Angular, NextJs, React and servers run smoothly with Nodejs, Express, NestJs, PHP, Laravel. I'm all about making technology work seamlessly for people. 
+<br/><br/>🌱 I believe in teamwork and sharing knowledge. You'll often find me helping out on open-source projects or chatting with other developers. Learning is fun when we do it together! <br/><br/>🔧 When I'm not coding, I'm probably going out walking. Balance is key to keeping those creative juices flowing. <br/><br/>💬 Wanna talk tech or collaborate on something cool? Hit me up here on GitHub or find me on website. Let's make magic happen with code! Happy coding! 🎉
+<br/>
 * 🖥️  See my portfolio at [mohsenamani.com](http://mohsenamani.com)
 * ✉️  You can contact me at [hi@mohsenamani.com](mailto:hi@mohsenamani.com)
 * 🚀  I'm currently working on [ExpoPrep.io](http://(s)://expoprep.io)
