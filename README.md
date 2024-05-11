@@ -7,7 +7,7 @@ Software Engineer | Problem Solver | Tech Enthusiast
 
 👋 Hey! I'm Mohsen Amani, a software engineer passionate about crafting efficient solutions with code. I specialize in web development, mastering Angular, NextJs, Nodejs and Laravel among others. I thrive on collaboration and knowledge-sharing, often contributing to open-source projects. When not coding, I recharge by taking walks. Let's connect and create something amazing together! 🚀
 
-<br>- 🖥️ Portfolio: [mohsenamani.com](http://mohsenamani.com)<br>- ✉️ Email: [hi@mohsenamani.com](mailto:hi@mohsenamani.com)<br>- 🚀 Current Project: [ExpoPrep.io](http://(s)://expoprep.io)<br>- 🧠 Learning: Web3, Solidity, Ethereum blockchain<br>- 🤝 Open to collaborations in Nodejs or PHP projects</p>
+<br>- 🖥️ Portfolio: [mohsenamani.com](http://mohsenamani.com)<br>- ✉️ Email: [hi@mohsenamani.com](mailto:hi@mohsenamani.com)<br>- 🚀 Current Project: [ExpoPrep.io](http://(s)://expoprep.io)<br>- 🧠 Learning: Web3, Solidity, Ethereum blockchain<br>- 🤝 Open to collaborations with following technologies</p>
 
 
 ### Skills
